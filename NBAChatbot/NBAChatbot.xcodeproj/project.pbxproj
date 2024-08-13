@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A797537D2C6BF8420037598B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A797537C2C6BF8420037598B /* GoogleService-Info.plist */; };
 		A7E6E0F72C6AB55600EAC21C /* NBAChatbotApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E6E0F62C6AB55600EAC21C /* NBAChatbotApp.swift */; };
 		A7E6E0F92C6AB55600EAC21C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E6E0F82C6AB55600EAC21C /* ContentView.swift */; };
 		A7E6E0FB2C6AB55900EAC21C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7E6E0FA2C6AB55900EAC21C /* Assets.xcassets */; };
 		A7E6E0FE2C6AB55900EAC21C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7E6E0FD2C6AB55900EAC21C /* Preview Assets.xcassets */; };
-		A7E6E1232C6ABC6A00EAC21C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A7E6E1222C6ABC6A00EAC21C /* GoogleService-Info.plist */; };
 		A7E6E1262C6ABCD700EAC21C /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = A7E6E1252C6ABCD700EAC21C /* FirebaseDatabase */; };
 		A7E6E1282C6ABCD700EAC21C /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = A7E6E1272C6ABCD700EAC21C /* FirebaseFirestore */; };
 		A7E6E12A2C6ABCD700EAC21C /* FirebaseFirestoreCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = A7E6E1292C6ABCD700EAC21C /* FirebaseFirestoreCombine-Community */; };
@@ -30,12 +30,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A797537C2C6BF8420037598B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A7E6E0F32C6AB55600EAC21C /* NBAChatbot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NBAChatbot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7E6E0F62C6AB55600EAC21C /* NBAChatbotApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NBAChatbotApp.swift; sourceTree = "<group>"; };
 		A7E6E0F82C6AB55600EAC21C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A7E6E0FA2C6AB55900EAC21C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7E6E0FD2C6AB55900EAC21C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		A7E6E1222C6ABC6A00EAC21C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A7E6E12D2C6ABD0E00EAC21C /* Aboutview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aboutview.swift; sourceTree = "<group>"; };
 		A7E6E12F2C6ABD4C00EAC21C /* AuthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthView.swift; sourceTree = "<group>"; };
 		A7E6E1312C6ABD7800EAC21C /* Chatbotview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chatbotview.swift; sourceTree = "<group>"; };
@@ -102,8 +102,8 @@
 		A7E6E0FC2C6AB55900EAC21C /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				A7E6E1222C6ABC6A00EAC21C /* GoogleService-Info.plist */,
 				A7E6E0FD2C6AB55900EAC21C /* Preview Assets.xcassets */,
+				A797537C2C6BF8420037598B /* GoogleService-Info.plist */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -179,9 +179,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7E6E0FE2C6AB55900EAC21C /* Preview Assets.xcassets in Resources */,
+				A797537D2C6BF8420037598B /* GoogleService-Info.plist in Resources */,
 				A7E6E0FB2C6AB55900EAC21C /* Assets.xcassets in Resources */,
 				A7E6E1422C6ACF9500EAC21C /* Launch Screen.storyboard in Resources */,
-				A7E6E1232C6ABC6A00EAC21C /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
