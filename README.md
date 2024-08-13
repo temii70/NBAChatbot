@@ -19,21 +19,22 @@ Requirements:
 
 
 
-Installation
-1) git clone https://github.com/yourusername/nba-chatbot.git
+Installation:
 
-2) cd NbaChatbot
+1) git clone https://github.com/temii70/nba-chatbot.git
+
+2) go into the directory containing the folder
 
 3) (Optional) If you're using Anaconda, you can create and activate a virtual environment:
     conda create -n nba-chatbot python=3.8
     conda activate nba-chatbot
 
-
 4) pip install -r requirements.txt
-
 
 5) Run the application:
     Python Chatbot.py
 
-6) Navigate to the SwiftUI project directory
+6) Navigate to the SwiftUI project directory and hit the build button
+
+7) Enjoy!
 
