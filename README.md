@@ -34,4 +34,7 @@ Installation:
 5) Run the application:
     Python Chatbot.py
 
-6) Navigate to the S
+6) Navigate to the SwiftUI project directory and hit the build button
+
+7) Enjoy!
+
