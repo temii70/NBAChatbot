@@ -34,4 +34,8 @@ Installation:
 5) Run the application:
     Python Chatbot.py
 
-6) Navigate to the N
+6) Navigate to the NBAChatbot folder
+
+7) Open in vscode and hit the build button
+
+8) Enjoy!
