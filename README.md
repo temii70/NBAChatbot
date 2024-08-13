@@ -34,4 +34,4 @@ Installation:
 5) Run the application:
     Python Chatbot.py
 
-6) Navigate to the S
+6) Navigate to the N
