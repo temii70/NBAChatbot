@@ -15,7 +15,7 @@ Requirements:
 
 - Dataset: The dataset is included in the repository, but if needed, you can download it from https://www.kaggle.com/datasets/wyattowalsh/basketball.
 
--Xcode with SwiftUI: You'll need Xcode installed to run the SwiftUI frontend.
+- Xcode with SwiftUI: You'll need Xcode installed to run the SwiftUI frontend.
 
 
 
