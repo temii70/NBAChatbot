@@ -124,10 +124,11 @@ struct RegistrationView: View {
                     HStack(spacing: 5) {
                         Text("Already have an account?")
                             .foregroundColor(.white)
+                            .fontWeight(.semibold)
                         //sends the user to the Log in view
                         NavigationLink("Log In", value: "login")
                             .foregroundColor(.white)
-                            .fontWeight(.semibold)
+                            .fontWeight(.black)
                             .underline()
                     }
                     //after the signup function is called it will send the user to the chatbot view
