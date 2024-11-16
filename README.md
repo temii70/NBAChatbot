@@ -21,8 +21,7 @@ Requirements:
 
 Installation:
 
-1) git clone https://github.com/temii70/nba-chatbot.git
-
+1) git clone https://github.com/temii70/NBAChatbot
 2) go into the directory containing the folder
 
 3) (Optional) If you're using Anaconda, you can create and activate a virtual environment:
